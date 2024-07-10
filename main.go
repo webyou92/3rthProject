@@ -1,9 +1,9 @@
-package main
+package sevomi
 
 import (
 	"fmt"
 )
 
-func main() {
+func salam() {
 	fmt.Println("salam")
 }
